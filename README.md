@@ -1,1 +1,3 @@
-# Vedas-and-Upanishads-LLM-
+# Vedas-and-Upanishads-LLM
+
+This project is still in the idea phase. And also I am planning to work on three projects simultaneously from today,  one the Vedic Math LLM, two Sanskrit LLM, and three Vedas & Upanishad LLM. I would like to confess one thing before, that I got very basic knowleadge on all Vedic Math, Vedas & Upanishads, Sanskrit. I know I wantedly choose the hardest projects that is very difficult to accomplish but I am gonna give my best. I repeat this is still in the idea phase and I will be working on this projects as close I can. I request any one interested in this ideation and planning to develop similar projects, I appreciate you to contribute, suggestions are always open and lets build better models. Hope we gonna achieve something big soon. As usual keep learning and keep building always 👨‍💻. 
